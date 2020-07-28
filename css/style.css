@@ -1,0 +1,16 @@
+body {
+    background: #f1e6e1;
+    font-family: cursive
+}
+h2 {
+    font-size: 26px;
+    color: black;
+}
+p {
+    font-size: 18px;
+    color: gray;
+}
+h4 {
+    color: black;
+    text-decoration-line: overline
+}
